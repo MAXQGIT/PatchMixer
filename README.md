@@ -84,3 +84,6 @@ If you find this repository useful in your research, please consider citing our 
 }
 ```
 
+我是改的能直接运行run_longExp.py程序，不用专门下数据和传入参数而已。
+作者源码地址https://github.com/Zeying-Gong/PatchMixer
+
